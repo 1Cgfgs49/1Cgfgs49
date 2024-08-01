@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+Meu nome é Gabriel Gimeniz
+Estou estudando no Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo no email:
+00001116835812sp@al.educacao.sp.gov.br
 <!--
 **1Cgfgs49/1Cgfgs49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
